@@ -1,0 +1,33 @@
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.Publish.xml
+
+
+# CVS - Source Control
+**/CVS/
+
+
+# Mac desktop service store files
+.DS_Store
+
+# Visual Studio temp something
+.vs/
+
+# dotnet stuff
+project.lock.json
+
+
+# Visual Studio Code
+.vscode/
+
