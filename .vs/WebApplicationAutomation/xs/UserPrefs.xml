@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E541E95E-19D3-4D0B-B45B-7FD1C9E69D5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplicationAutomation/tests/UnitTest1.cs">
+    <Files>
+      <File FileName="WebApplicationAutomation/utilities/Base.cs" Line="9" Column="1" />
+      <File FileName="WebApplicationAutomation/utilities/JsonReader.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationAutomation/utilities/testData.json" Line="1" Column="1" />
+      <File FileName="WebApplicationAutomation/pageObjects/ConfirmPage.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationAutomation/pageObjects/ProductsPage.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationAutomation/pageObjects/CheckoutPage.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationAutomation/pageObjects/LoginPage.cs" Line="1" Column="1" />
+      <File FileName="WebApplicationAutomation/App.config" Line="4" Column="45" />
+      <File FileName="WebApplicationAutomation/tests/UnitTest1.cs" Line="33" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplicationAutomation" expanded="True">
+            <Node name="WebApplicationAutomation" expanded="True">
+              <Node name="pageObjects" expanded="True" />
+              <Node name="tests" expanded="True">
+                <Node name="UnitTest1.cs" selected="True" />
+              </Node>
+              <Node name="utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WebApplicationAutomation" expanded="True">
+            <Node name="WebApplicationAutomation" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplicationAutomation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
